@@ -8,7 +8,7 @@
 
 ## News
 
-Our paper **"FreDA: Frequency-Guided Degradation Adaptation Detail Injection Network for Pansharpening"** has been accepted by **IEEE TGRS**!🎉 Check it out at [Paper]([https://ieeexplore.ieee.org/abstract/document/10632205](https://ieeexplore.ieee.org/abstract/document/11339356/)).
+Our paper **"FreDA: Frequency-Guided Degradation Adaptation Detail Injection Network for Pansharpening"** has been accepted by **IEEE TGRS**!🎉 Check it out at [Paper](https://ieeexplore.ieee.org/abstract/document/10632205(https://ieeexplore.ieee.org/abstract/document/11339356).
 
 Our paper **"Deep Variational Network for Blind Pansharpening"** has been accepted by **IEEE TNNLS**!🎉 Check it out at [Paper](https://ieeexplore.ieee.org/abstract/document/10632205) [github](https://github.com/ZhiyuanZhang-WHU/VBPN).
 
